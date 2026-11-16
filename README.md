@@ -1,8 +1,9 @@
 ## SQL
 
-J'ai pu commencé à débuter avec SQL (language informatique utilisé pour interagir avec les BDD relationnelle). Le brief m'a appris à utiliser differentes commandes sur supabase afin de créer, modifier ou supprimer une base de données . J'ai également appris ce qu'étais la méthode Merise.
+J'ai pu voir à la suite de ce brief, la methode merise. J'ai vu 3 modèles de cette methode durant ce brief: MCD,MLD,MPD (il en existe d'autres). Ce qui m'a permi de comprendre la logique de cette methode, afin qu'à la fin je puisse créer des tables et les faire fonctionner en relation entres elles.
+J'ai pu également apprendre les input de base à utiliser sur supabase pour l'instant ( je pense passer prochainement sur le terminal).
 
-Le plus gros "problème" que j'ai eu avec le brief ont été les commandes (INSERT TO, SELECT, UPDATE et DELETE), dans le brief on voyais que c'était fait sur un terminal et pas sur supabase donc au début j'étais perdu. J'ai eu également des erreurs sur les types que je mettais à mes colonnes. Sinon j'ai bien compris, pour le moment j'arrive à suivre.
+Ce qui a été compliquer lors du brief ont été les type de mes colonnes qui pouvaient me mettre en erreur mes input. Créer une table avec une clés étrangères.
 
 ## Technologies utilisées:
 
